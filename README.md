@@ -1,4 +1,4 @@
 # Camera-Follows-Path
-camera follows the path
+camera moves along path according to location of object
 
-摄像机跟随路径位置移动
+摄像机根据物体位置沿路径移动
